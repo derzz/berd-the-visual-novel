@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/endings.rpy", line 199: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        "
+
+Ren'Py Version: Ren'Py 7.4.6.1693
+Mon Jul 26 11:14:27 2021
