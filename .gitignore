@@ -1,0 +1,6 @@
+game/cache/
+game/saves/
+log.txt
+errors.txt
+traceback.txt
+files.txt
