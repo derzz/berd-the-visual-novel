@@ -1,5 +1,5 @@
-game/cache/
-game/saves/
+game\cache\
+game\saves\
 log.txt
 errors.txt
 traceback.txt
